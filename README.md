@@ -23,3 +23,5 @@ Project is created with:
 ## Demo
 
 The project can be found at this link:
+
+https://quizz-app-vue-psi.vercel.app/
